@@ -1,0 +1,23 @@
+:root {
+
+/* ----- Light mode Colour Palette ----- */
+
+    --bg-dark: #041121;
+    --bg-light: #F4F4F4;
+    --accent-primary: #A8943D;
+    --accent-secondary: #0B2647;
+
+}
+
+/* ----- Fonts ----- */
+
+@font-face {
+    font-family: "Monument Extended";
+    src: url("fonts/MonumentExtended-Regular.otf") format("opentype");
+    font-weight: normal;
+    }
+    @font-face {
+        font-family: "Monument Extended";
+        src: url("fonts/MonumentExtended-Ultrabold.otf") format("opentype");
+        font-weight: bold;
+        }
