@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<style>
+    path {
+      fill: #000000;
+    }
+
+    @media (prefers-color-scheme: dark) {
+			path {
+				fill: #FFFFFF;
+			}
+    }
+  </style>
+	<path d="M397.8 117.9v290h-76.4V273.5h-.8l-46.4 97.2h-36.8l-46-96.8h-.8v134h-76.4v-290h80.4l60.8 150.8h.8l61.2-150.8h80.4z"></path>
+</svg></svg>
